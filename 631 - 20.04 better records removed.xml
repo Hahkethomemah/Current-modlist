@@ -36,8 +36,9 @@
         <li>sc.animalharvestingspotretexture</li>
         <li>oblitus.animalslogic</li>
         <li>revolus.animalsarefun</li>
+        <li>balistafreak.standalonehotspring</li>
+        <li>mg.ashsrrt</li>
         <li>mlie.apexrimworldlegends</li>
-        <li>mlie.aquarium</li>
         <li>alien.arasakacorporation</li>
         <li>fluffy.areaunlocker</li>
         <li>4ydra.arsenalofreaction</li>
@@ -91,7 +92,6 @@
         <li>bodlosh.weaponstats</li>
         <li>gondragon.uinotincluded</li>
         <li>mlie.bettermessageplacement</li>
-        <li>mlie.betterrecordstab</li>
         <li>owlchemist.bettervanillamasking</li>
         <li>antaioz.bettervents</li>
         <li>beyondrimworld.weapons</li>
@@ -225,7 +225,6 @@
         <li>rick.fcpvertibirds</li>
         <li>jangodsoul.frog.mgs4</li>
         <li>sineswiper.factionblender</li>
-        <li>mlie.falloutstimpak</li>
         <li>fsr.stimpaks</li>
         <li>mlie.fillbackstories</li>
         <li>fluffy.followme</li>
@@ -329,6 +328,7 @@
         <li>aardvark.morevisiblepause</li>
         <li>morgante.morgantewolfcloak</li>
         <li>rax.morphgun</li>
+        <li>morphsassorted.nocrushedbodies</li>
         <li>sirmashedpotato.morrowrim.moonsugarandskooma</li>
         <li>hobtook.mortaraccuracy</li>
         <li>mlie.mountainminer</li>
@@ -390,6 +390,8 @@
         <li>mlie.roadsoftherim</li>
         <li>mlie.regrowthexpandedworldgeneration</li>
         <li>woolstrand.realruins</li>
+        <li>hobtook.tradeui</li>
+        <li>vanillaexpanded.ui</li>
         <li>jaxe.rimhud</li>
         <li>automatic.recipeicons</li>
         <li>averythekitty.refinedfloors</li>
@@ -427,7 +429,6 @@
         <li>rooboid.royalhair</li>
         <li>elegantchimp.roofingtools</li>
         <li>falconne.roomsense</li>
-        <li>neceros.roomsizetolerance</li>
         <li>sakama.roppoihair</li>
         <li>mobius.royaltytweaks</li>
         <li>roolo.runandgun</li>
@@ -470,6 +471,8 @@
         <li>akri.starcraftersarmory</li>
         <li>scherub.stonecuttingextended</li>
         <li>sakama.storytellerhair</li>
+        <li>vanillaexpanded.vchemfuele</li>
+        <li>unon.vchemfuele.scp</li>
         <li>colinfang.tagit</li>
         <li>legodude17.htsb</li>
         <li>odysseyscorpio.targetingmodes.20200317</li>
@@ -481,11 +484,11 @@
         <li>owlchemist.toggleablereadouts</li>
         <li>reiquard.tooltippedlongnames</li>
         <li>smashphil.dropspot</li>
-        <li>hobtook.tradeui</li>
         <li>timmyliang.tradehelper</li>
         <li>carnysenpai.traitraritycolors</li>
         <li>treasurehunter.velcroboy333</li>
         <li>shenanigans.tribalbackstories</li>
+        <li>mud.tribalcapes</li>
         <li>shenanigans.tribaltattoos</li>
         <li>mlie.turnonoffrepowered</li>
         <li>hlx.ultratechalteredcarbon</li>
@@ -510,7 +513,6 @@
         <li>vfme.caravanpacks</li>
         <li>vanillaexpanded.vaetf</li>
         <li>thegoofyone.vanillabrewingexpandednerfed</li>
-        <li>vanillaexpanded.vchemfuele</li>
         <li>vanillaexpanded.vee</li>
         <li>legodude17.vfemechscp</li>
         <li>vanillaexpanded.vcefaddon</li>
@@ -603,7 +605,6 @@
         <li>kyd.zucchini</li>
         <li>kittahkhan.grazeup</li>
         <li>neronix17.antianima</li>
-        <li>neronix17.ancient.decon</li>
         <li>neronix17.hairstyles</li>
         <li>rimsenal.core</li>
         <li>rimsenal.hair</li>
@@ -627,6 +628,7 @@
         <li>trahspanda.botw.ancientweapons</li>
         <li>wemd.realisticdarkness</li>
         <li>mlie.xndmemorableauroras</li>
+        <li>poet.ddexpandedcollection</li>
         <li>sineswiper.xenobionicpatcher</li>
         <li>syrchalis.prosthetictable</li>
         <li>mlie.prostheticnomissingbodyparts</li>
