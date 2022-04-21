@@ -17,7 +17,6 @@
         <li>brrainz.achtung</li>
         <li>roolo.almostthere</li>
         <li>spoonshortage.adogsaidanimalprosthetics</li>
-        <li>vanillaexpanded.achievements</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
         <li>sarg.alphaanimals</li>
         <li>vanillaexpanded.vbookse</li>
@@ -347,6 +346,17 @@
         <li>tidal.grainsandbrewing</li>
         <li>vanillaexpanded.vaeendandext</li>
         <li>lthoddy547.nothahweapon</li>
+        <li>rimeffect.extendedcut</li>
+        <li>vanillaexpanded.vaeas</li>
+        <li>vanillaexpanded.vaebf</li>
+        <li>vanillaexpanded.vaed</li>
+        <li>vanillaexpanded.vaeed</li>
+        <li>vanillaexpanded.vaeis</li>
+        <li>vanillaexpanded.vaetf</li>
+        <li>vanillaexpanded.vaetr</li>
+        <li>vanillaexpanded.vaets</li>
+        <li>vanillaexpanded.vaet</li>
+        <li>seohyeon.optimizationmeats</li>
         <li>com.bymarcin.architecticons</li>
         <li>proxyer.optionalicons4ai</li>
         <li>chewyyui.vfeoverwallac</li>
@@ -406,7 +416,6 @@
         <li>tammybee.restocknotification</li>
         <li>boomleather.velcroboy333</li>
         <li>brrainz.reversecommands</li>
-        <li>rimeffect.extendedcut</li>
         <li>rimeffect.srts.shuttle</li>
         <li>cabbage.rimcities</li>
         <li>mlie.rimquest</li>
@@ -442,9 +451,6 @@
         <li>automatic.prisonerbedsetowner</li>
         <li>dninemfive.settlementdescription</li>
         <li>uuugggg.sharetheload</li>
-        <li>vanillaexpanded.vaed</li>
-        <li>vanillaexpanded.vaets</li>
-        <li>vanillaexpanded.vaet</li>
         <li>shavius.vepatches</li>
         <li>mlie.shelfrenamer</li>
         <li>erdelf.showmoddesignators</li>
@@ -504,14 +510,8 @@
         <li>erin.palamutes</li>
         <li>tidal.morevanilla.textures</li>
         <li>regrowth.botr.extinctanimalspack</li>
-        <li>vanillaexpanded.vaeas</li>
         <li>vanillaexpanded.vaeau</li>
-        <li>vanillaexpanded.vaebf</li>
-        <li>vanillaexpanded.vaeed</li>
-        <li>vanillaexpanded.vaeis</li>
-        <li>vanillaexpanded.vaetr</li>
         <li>vfme.caravanpacks</li>
-        <li>vanillaexpanded.vaetf</li>
         <li>thegoofyone.vanillabrewingexpandednerfed</li>
         <li>vanillaexpanded.vee</li>
         <li>legodude17.vfemechscp</li>
@@ -542,7 +542,6 @@
         <li>deivisis.weightprice</li>
         <li>uuugggg.whatismypurpose</li>
         <li>revolus.whatsmissing</li>
-        <li>tammybee.whereismyweapon</li>
         <li>jangodsoul.simplestorage</li>
         <li>mehni.pickupandhaul</li>
         <li>codeoptimist.jobsofopportunity</li>
