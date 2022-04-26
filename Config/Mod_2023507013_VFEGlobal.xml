@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VFECore.VFEGlobalSettings">
+		<toggablePatch>
+			<keys>
+				<li>DisableLuciferiumCrafting:</li>
+			</keys>
+			<values>
+				<li>True</li>
+			</values>
+		</toggablePatch>
+		<disableCaching>False</disableCaching>
+		<isRandomGraphic>True</isRandomGraphic>
+		<hideRandomizeButton>False</hideRandomizeButton>
+		<enableLeaveSpawners>True</enableLeaveSpawners>
+		<enableAutumnLeaveSpawners>True</enableAutumnLeaveSpawners>
+		<weatherDamagesOptions>
+			<keys>
+				<li>RG_Hail</li>
+				<li>RG-W_ToxicRain</li>
+				<li>RG-W_ToxicRainyThunderstorm</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</weatherDamagesOptions>
+	</ModSettings>
+</SettingsBlock>

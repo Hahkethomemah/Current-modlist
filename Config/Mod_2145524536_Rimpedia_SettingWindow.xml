@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Rimpedia.Rimpedia_Setting">
+		<RSMode>Normal</RSMode>
+		<RSHightLight>RGBA(250.000, 50.000, 50.000, 1.000)</RSHightLight>
+		<RSOpen>False</RSOpen>
+		<RShideNotRecorded>False</RShideNotRecorded>
+		<RSshowBonous>False</RSshowBonous>
+		<RSnotifyAdd>False</RSnotifyAdd>
+		<RSnotifyComp>False</RSnotifyComp>
+		<RStrainIcon>False</RStrainIcon>
+		<RSBAtrain>True</RSBAtrain>
+		<RSBAtame>True</RSBAtame>
+		<RSBAyield>True</RSBAyield>
+		<RSBAtamefail>True</RSBAtamefail>
+		<RSBAdamage>True</RSBAdamage>
+		<RSBPyield>True</RSBPyield>
+		<RSBPwork>True</RSBPwork>
+		<RSBPgrowday>True</RSBPgrowday>
+		<RSEasy>5</RSEasy>
+		<RSNormal>10</RSNormal>
+		<RSHard>15</RSHard>
+		<RPCRecord>True</RPCRecord>
+		<RPCOpen>True</RPCOpen>
+		<RSlink>False</RSlink>
+		<RPAlertAnimal>False</RPAlertAnimal>
+		<RPFavAlert>False</RPFavAlert>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MUR_ISiD.InfestationSpawnSettings">
+		<MURInfestations_noSpawnLightLevel>30</MURInfestations_noSpawnLightLevel>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Dubs_Skylight.Settings">
+		<HideWindows>False</HideWindows>
+		<SunlightHeatsRoom>False</SunlightHeatsRoom>
+	</ModSettings>
+</SettingsBlock>

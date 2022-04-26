@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SmartDeconstruct.SmartDeconSettings">
+		<Buildings>True</Buildings>
+		<CancelThick>True</CancelThick>
+		<Mining>True</Mining>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ShowHair.Settings">
+		<HatsThatHide />
+		<HatsToHideShowBeards />
+		<HatsToHideUnlessDraftedSH />
+		<HatsToHideUnlessDraftedHH />
+		<hatsToHideUnlessDraftedHHSB />
+		<HatsToHide />
+		<HairToHide />
+	</ModSettings>
+</SettingsBlock>

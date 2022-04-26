@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterLog.Settings">
+		<Patches>
+			<patches>
+				<keys>
+					<li>BetterLog.Patches+MainMenuDrawer_DoMainMenuControls_Patch</li>
+					<li>BetterLog.Patches+MainMenuDrawer_DoMainMenuControls_Extra_Patch</li>
+					<li>BetterLog.Patches+MainTabWindow_Menu_Patch</li>
+					<li>BetterLog.Patches+Log_Message_Patch</li>
+					<li>BetterLog.Patches+Log_Warning_Patch</li>
+					<li>BetterLog.Patches+Log_Error_Patch</li>
+					<li>BetterLog.Patches+Log_Notify_MessageReceivedThreadedInternal_Disable_Patch</li>
+					<li>BetterLog.Patches+Log_Notify_MessageReceivedThreadedInternal_Modify_Patch</li>
+					<li>BetterLog.Patches+FileLog_Log_Patch</li>
+					<li>BetterLog.Patches+EditWindow_Log_DoMessagesListing_Patch</li>
+					<li>BetterLog.Patches+EditWindow_Log_DoWindowContents_Patch</li>
+					<li>BetterLog.Patches+LogMessage_Color_Patch</li>
+					<li>BetterLog.Patches+Decolorize_Patch</li>
+					<li>BetterLog.Patches+Translator_PseudoTranslate_Patch</li>
+				</keys>
+				<values>
+					<li Class="BetterLog.Patches+MainMenuDrawer_DoMainMenuControls_Patch" />
+					<li Class="BetterLog.Patches+MainMenuDrawer_DoMainMenuControls_Extra_Patch" />
+					<li Class="BetterLog.Patches+MainTabWindow_Menu_Patch" />
+					<li Class="BetterLog.Patches+Log_Message_Patch" />
+					<li Class="BetterLog.Patches+Log_Warning_Patch" />
+					<li Class="BetterLog.Patches+Log_Error_Patch" />
+					<li Class="BetterLog.Patches+Log_Notify_MessageReceivedThreadedInternal_Disable_Patch" />
+					<li Class="BetterLog.Patches+Log_Notify_MessageReceivedThreadedInternal_Modify_Patch" />
+					<li Class="BetterLog.Patches+FileLog_Log_Patch" />
+					<li Class="BetterLog.Patches+EditWindow_Log_DoMessagesListing_Patch" />
+					<li Class="BetterLog.Patches+EditWindow_Log_DoWindowContents_Patch" />
+					<li Class="BetterLog.Patches+LogMessage_Color_Patch" />
+					<li Class="BetterLog.Patches+Decolorize_Patch" />
+					<li Class="BetterLog.Patches+Translator_PseudoTranslate_Patch" />
+				</values>
+			</patches>
+		</Patches>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SparklingWorlds.SparklingWorldsSettings">
+		<shipCrash>True</shipCrash>
+		<thrumboSighting>True</thrumboSighting>
+		<doctorRequest>True</doctorRequest>
+		<psychicEmitter>True</psychicEmitter>
+		<tradeFair>True</tradeFair>
+		<insectHiveDrop>True</insectHiveDrop>
+		<huntingLodge>True</huntingLodge>
+		<weaponsPodCrash>True</weaponsPodCrash>
+	</ModSettings>
+</SettingsBlock>

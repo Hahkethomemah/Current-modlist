@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimQuest.RimQuestSettings">
+		<QuestSettings>
+			<keys />
+			<values />
+		</QuestSettings>
+		<IncidentSettings>
+			<keys>
+				<li>VEE_GlobalWarming</li>
+				<li>VEE_IceAge</li>
+				<li>InterceptedMessageLGE</li>
+				<li>VEE_LongNight</li>
+				<li>VEE_PsychicBloom</li>
+				<li>VEE_PsychicRain</li>
+				<li>VFEM_ShipLandCarrier</li>
+				<li>VFEM_ShipLandCruiser</li>
+				<li>VFEM_ShipLandDestroyer</li>
+				<li>VFEM_ShipLandFrigate</li>
+				<li>VFEM_ShipLandTroopship</li>
+				<li>MFI_QuestSpreadingPirateCamp</li>
+				<li>MFI_AnnualExpo</li>
+			</keys>
+			<values>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+			</values>
+		</IncidentSettings>
+	</ModSettings>
+</SettingsBlock>

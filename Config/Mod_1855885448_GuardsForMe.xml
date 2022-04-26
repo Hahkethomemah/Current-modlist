@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.GFM.Settings">
+		<minFoodStopJob>0.25</minFoodStopJob>
+		<minRestStopJob>0.25</minRestStopJob>
+		<minHygieneStopJob>0.25</minHygieneStopJob>
+		<minBladderStopJob>0.25</minBladderStopJob>
+	</ModSettings>
+</SettingsBlock>

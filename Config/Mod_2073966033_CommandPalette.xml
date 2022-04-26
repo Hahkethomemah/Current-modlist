@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CommandPalette.Settings">
+		<maxRecentDesignators>8</maxRecentDesignators>
+		<keybinding>
+			<label>Open Command Palette</label>
+			<type>MouseButton</type>
+			<button>1</button>
+		</keybinding>
+	</ModSettings>
+</SettingsBlock>

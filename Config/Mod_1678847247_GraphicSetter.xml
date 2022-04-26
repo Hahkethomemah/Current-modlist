@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="GraphicSetter.GraphicsSettings">
+		<settings>
+			<anisoLevel>6</anisoLevel>
+			<useMipMap>True</useMipMap>
+			<filterMode>Trilinear</filterMode>
+			<mipMapBias>-0.5</mipMapBias>
+		</settings>
+	</ModSettings>
+</SettingsBlock>

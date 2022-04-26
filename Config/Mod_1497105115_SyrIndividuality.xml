@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SyrTraits.SyrIndividualitySettings">
+		<Individuality_CommonalityStraight>0.5</Individuality_CommonalityStraight>
+		<Individuality_CommonalityBi>0.1</Individuality_CommonalityBi>
+		<Individuality_CommonalityGay>0.1</Individuality_CommonalityGay>
+		<Individuality_CommonalityAsexual>0</Individuality_CommonalityAsexual>
+		<Individuality_TraitCount>2~4</Individuality_TraitCount>
+		<Individuality_DisableRomance>False</Individuality_DisableRomance>
+	</ModSettings>
+</SettingsBlock>

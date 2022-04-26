@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="LetsGoExplore.GoExploreSettings">
+		<lostCity>True</lostCity>
+		<ambrosiaAnimals>True</ambrosiaAnimals>
+		<shipCoreStartup>True</shipCoreStartup>
+		<prisonCamp>True</prisonCamp>
+		<newSettlement>True</newSettlement>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Gunplay.GunplaySettings">
+		<enableTrails>True</enableTrails>
+		<enenableSoundsableTrails>True</enenableSoundsableTrails>
+		<enableWeaponAnimations>True</enableWeaponAnimations>
+		<enableEffects>True</enableEffects>
+		<projectileSpeed>3</projectileSpeed>
+	</ModSettings>
+</SettingsBlock>

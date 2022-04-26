@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="O21Anima.AntiAnimaSettings">
+		<buildingRadius>19.95915</buildingRadius>
+		<psylinkLevelNeeds>
+			<li>20</li>
+			<li>20</li>
+			<li>20</li>
+			<li>20</li>
+			<li>20</li>
+			<li>20</li>
+		</psylinkLevelNeeds>
+	</ModSettings>
+</SettingsBlock>

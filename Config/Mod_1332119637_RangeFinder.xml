@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RangeFinder.RangeFinderSettings">
+		<showWeaponRangeKey>Shift</showWeaponRangeKey>
+		<showRangeAtMouseKey>Ctrl</showRangeAtMouseKey>
+		<useColorCoding>Yes</useColorCoding>
+		<maxRange>96</maxRange>
+	</ModSettings>
+</SettingsBlock>

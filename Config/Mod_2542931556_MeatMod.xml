@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AlienMeatTest.MeatModSettings">
+		<OM_fish>True</OM_fish>
+	</ModSettings>
+</SettingsBlock>

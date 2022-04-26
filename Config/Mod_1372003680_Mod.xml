@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Replace_Stuff.Settings">
+		<bridgePrefNames>
+			<li>Bridge</li>
+			<li>FloorArchotechUwU_Bridge</li>
+			<li>FloorArchotechOwO_Bridge</li>
+			<li>HeavyBridgeSandstone</li>
+			<li>HeavyBridgeGranite</li>
+			<li>HeavyBridgeLimestone</li>
+			<li>HeavyBridgeSlate</li>
+			<li>HeavyBridgeMarble</li>
+			<li>HeavyBridgeSteel</li>
+			<li>HeavyBridgePlasteel</li>
+			<li>ConcreteBridge</li>
+			<li>FloorArchotechUwU_BridgeDeep</li>
+			<li>FloorArchotechOwO_BridgeDeep</li>
+			<li>DeepWaterBridgeSandstone</li>
+			<li>DeepWaterBridgeGranite</li>
+			<li>DeepWaterBridgeLimestone</li>
+			<li>DeepWaterBridgeSlate</li>
+			<li>DeepWaterBridgeMarble</li>
+			<li>AB_AsphaltBridge</li>
+			<li>FloorArchotechUwU</li>
+			<li>FloorArchotechOwO</li>
+			<li>sandPath</li>
+			<li>AB_TarmacFloor</li>
+		</bridgePrefNames>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PrisonerRansom.RansomSettings">
+		<adjustment>78</adjustment>
+		<ransomRaidFailCooldown>150000</ransomRaidFailCooldown>
+	</ModSettings>
+</SettingsBlock>

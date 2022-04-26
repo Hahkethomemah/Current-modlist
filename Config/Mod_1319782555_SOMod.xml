@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SnapOut.SOSettings">
+		<StunWeight>0.55</StunWeight>
+	</ModSettings>
+</SettingsBlock>

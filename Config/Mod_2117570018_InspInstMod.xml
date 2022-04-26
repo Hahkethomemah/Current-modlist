@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="InspirationTweaks.Settings">
+		<workDeterminesInspiration>True</workDeterminesInspiration>
+		<disableCaravanInspiration>True</disableCaravanInspiration>
+		<inspiredRecruitmentEffectedByPrisoners>True</inspiredRecruitmentEffectedByPrisoners>
+		<allowWorkFrenzy>True</allowWorkFrenzy>
+		<allowGoFrenzy>True</allowGoFrenzy>
+		<allowShootFrenzy>True</allowShootFrenzy>
+		<allowTrade>True</allowTrade>
+		<allowRecruit>True</allowRecruit>
+		<allowTaming>True</allowTaming>
+		<allowSurgery>True</allowSurgery>
+		<allowCreativity>True</allowCreativity>
+		<allowBrawl>True</allowBrawl>
+		<allowFighting>True</allowFighting>
+		<allowKindess>True</allowKindess>
+		<allowMining>True</allowMining>
+		<allowCooking>True</allowCooking>
+		<allowResearch>True</allowResearch>
+		<allowLearning>True</allowLearning>
+		<allowPlant>True</allowPlant>
+		<allowHunting>True</allowHunting>
+		<allowRanching>True</allowRanching>
+		<allowForaging>True</allowForaging>
+		<allowTravelling>True</allowTravelling>
+		<allowBloodlust>True</allowBloodlust>
+		<allowArsonism>True</allowArsonism>
+		<allowArtistry>True</allowArtistry>
+		<allowSoothe>True</allowSoothe>
+		<allowPsychic>True</allowPsychic>
+		<allowLeader>True</allowLeader>
+	</ModSettings>
+</SettingsBlock>

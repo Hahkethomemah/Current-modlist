@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AdjustableTradeShips.Settings">
+		<AdjustableTradeShips.GlobalOrbitalTrade>
+			<days>15</days>
+			<instances>1</instances>
+		</AdjustableTradeShips.GlobalOrbitalTrade>
+	</ModSettings>
+</SettingsBlock>

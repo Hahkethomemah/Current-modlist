@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AlphaBiomes.AlphaBiomes_Settings">
+		<AB_UseAgariluxParticles>True</AB_UseAgariluxParticles>
+		<AB_SpawnFeraliskInfestedJungle>True</AB_SpawnFeraliskInfestedJungle>
+		<AB_SpawnGallatrossGraveyard>True</AB_SpawnGallatrossGraveyard>
+		<AB_SpawnGelatinousSuperorganism>True</AB_SpawnGelatinousSuperorganism>
+		<AB_SpawnMechanoidIntrusion>True</AB_SpawnMechanoidIntrusion>
+		<AB_SpawnMycoticJungle>True</AB_SpawnMycoticJungle>
+		<AB_SpawnOcularForest>True</AB_SpawnOcularForest>
+		<AB_SpawnPropaneLakes>True</AB_SpawnPropaneLakes>
+		<AB_SpawnRockyCrags>True</AB_SpawnRockyCrags>
+		<AB_SpawnPyroclasticConflagration>True</AB_SpawnPyroclasticConflagration>
+		<AB_SpawnTarPits>True</AB_SpawnTarPits>
+		<feraliskInfestedJungleMultiplier>1</feraliskInfestedJungleMultiplier>
+		<gallatrossGraveyardMultiplier>0.35</gallatrossGraveyardMultiplier>
+		<gelatinousSuperorganismMultiplier>1</gelatinousSuperorganismMultiplier>
+		<mechanoidIntrusionMultiplier>1</mechanoidIntrusionMultiplier>
+		<mycoticJungleMultiplier>1</mycoticJungleMultiplier>
+		<ocularForestMultiplier>0.5</ocularForestMultiplier>
+		<propaneLakesMultiplier>1</propaneLakesMultiplier>
+		<rockyCragsMultiplier>1</rockyCragsMultiplier>
+		<pyroclasticConflagrationMultiplier>1</pyroclasticConflagrationMultiplier>
+		<tarPitsMultiplier>0.25</tarPitsMultiplier>
+		<AB_RemoveVanillaBiomes>False</AB_RemoveVanillaBiomes>
+	</ModSettings>
+</SettingsBlock>

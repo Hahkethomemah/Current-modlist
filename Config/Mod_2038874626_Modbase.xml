@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Analyzer.Settings">
+		<lineAliasing>0</lineAliasing>
+		<showMax>True</showMax>
+		<showAxis>False</showAxis>
+		<showGrid>False</showGrid>
+		<callsColour>RGBA(0.239, 0.784, 0.431, 1.000)</callsColour>
+		<dnspyPath />
+		<SavedPatches_Update />
+		<SavedPatches_Tick />
+		<allEnabled>
+			<li>True</li>
+			<li>True</li>
+			<li>False</li>
+		</allEnabled>
+		<alertfilter>
+			<keys />
+			<values />
+		</alertfilter>
+		<performance.tempcache-isEnabled>True</performance.tempcache-isEnabled>
+		<performance.compdeepdrill-isEnabled>True</performance.compdeepdrill-isEnabled>
+		<performance.roof-isEnabled>True</performance.roof-isEnabled>
+		<performance.buildingrepair-isEnabled>True</performance.buildingrepair-isEnabled>
+		<performance.lordnotifydamage-isEnabled>True</performance.lordnotifydamage-isEnabled>
+		<performance.sectionlayersnow-isEnabled>True</performance.sectionlayersnow-isEnabled>
+		<performance.zoom-isEnabled>True</performance.zoom-isEnabled>
+		<performance.drawlabelsfix-isEnabled>True</performance.drawlabelsfix-isEnabled>
+	</ModSettings>
+</SettingsBlock>

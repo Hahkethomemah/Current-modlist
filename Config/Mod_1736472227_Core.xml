@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BorderOnPause.Settings">
+		<borderSize>10</borderSize>
+		<startAlpha>0.5</startAlpha>
+		<endAlpha>0.05</endAlpha>
+		<color_R>0.1181534</color_R>
+		<color_B>0.5305164</color_B>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Share_The_Load.Settings">
+		<makeWayJobs>False</makeWayJobs>
+	</ModSettings>
+</SettingsBlock>

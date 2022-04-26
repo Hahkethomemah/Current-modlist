@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UINotIncluded.Settings">
+		<togglersOnTop>False</togglersOnTop>
+		<vanillaAnimals>True</vanillaAnimals>
+		<settingsChecked>True</settingsChecked>
+		<vanillaReadout>True</vanillaReadout>
+		<vanillaControlSpeed>True</vanillaControlSpeed>
+		<vanillaDate>True</vanillaDate>
+		<vanillaRealtime>True</vanillaRealtime>
+		<vanillaWeather>True</vanillaWeather>
+		<vanillaTemperature>True</vanillaTemperature>
+		<useDesignatorBar>False</useDesignatorBar>
+		<initializedDefaultBar>True</initializedDefaultBar>
+		<StyleType>UINotIncluded.BarStyle_VanillaBluePlus</StyleType>
+		<hiddenDesignations>
+			<li>AllowTool.Designator_Allow</li>
+			<li>AllowTool.Designator_Forbid</li>
+			<li>AllowTool.Designator_AllowAll</li>
+			<li>AllowTool.Designator_SelectSimilar</li>
+			<li>AllowTool.Designator_HaulUrgently</li>
+			<li>AllowTool.Designator_FinishOff</li>
+			<li>AllowTool.Designator_HarvestFullyGrown</li>
+			<li>AllowTool.Designator_StripMine</li>
+			<li>RimWorld.Designator_Strip</li>
+			<li>RimWorld.Designator_Open</li>
+			<li>RimWorld.Designator_PlanAdd</li>
+			<li>RimWorld.Designator_PlanRemove</li>
+			<li>KCSG.Designator_ExportToXml</li>
+			<li>KCSG.Designator_ExportToXmlFromArea</li>
+			<li>VFESecurity.Designator_RearmTrap</li>
+			<li>aRandomKiwi.KFM.Designator_Kill</li>
+			<li>aRandomKiwi.KFM.Designator_DKill</li>
+			<li>ProgressRenderer.Designator_CornerMarkerAdd</li>
+			<li>ProgressRenderer.Designator_CornerMarkerRemove</li>
+			<li>SR.Designator_Dig</li>
+			<li>AlteredCarbon.Designator_ExtractStack</li>
+			<li>DubRoss.Designator_PaintFixtures</li>
+			<li>RimWorld.Designator_Build</li>
+		</hiddenDesignations>
+		<leftDesignations>
+			<li>RimWorld.Designator_Forbid</li>
+			<li>RimWorld.Designator_Uninstall</li>
+			<li>RimWorld.Designator_Unforbid</li>
+			<li>RimWorld.Designator_Claim</li>
+		</leftDesignations>
+		<mainDesignations>
+			<li>RimWorld.Designator_Mine</li>
+			<li>RimWorld.Designator_PlantsHarvestWood</li>
+			<li>RimWorld.Designator_PlantsHarvest</li>
+			<li>RimWorld.Designator_Cancel</li>
+			<li>RimWorld.Designator_Deconstruct</li>
+		</mainDesignations>
+		<rightDesignations>
+			<li>RimWorld.Designator_Haul</li>
+			<li>RimWorld.Designator_SmoothSurface</li>
+			<li>RimWorld.Designator_Slaughter</li>
+			<li>RimWorld.Designator_PlantsCut</li>
+			<li>RimWorld.Designator_Hunt</li>
+			<li>RimWorld.Designator_Tame</li>
+		</rightDesignations>
+		<top />
+		<bottom>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintMenus</defName>
+				<label>Mint menus</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintResearch</defName>
+				<label>Mint research</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintDesignators</defName>
+				<label>Mint designators</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Architect</defName>
+				<iconPath>UI/Buttons/MainButtons/IconArchitect</iconPath>
+				<label>Architect</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Work</defName>
+				<iconPath>UI/Buttons/MainButtons/IconWork</iconPath>
+				<label>Work</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Fluffy_Manager</defName>
+				<iconPath>UI/Buttons/MainButtons/Manager</iconPath>
+				<label>Manager</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Schedule</defName>
+				<iconPath>UI/Buttons/MainButtons/IconSchedule</iconPath>
+				<label>Schedule</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Assign</defName>
+				<iconPath>UI/Buttons/MainButtons/IconAssign</iconPath>
+				<label>Assign</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Animals</defName>
+				<iconPath>UI/Buttons/MainButtons/IconAnimals</iconPath>
+				<label>Animals</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>WTH_Tab_Mechanoids</defName>
+				<iconPath>UI/Buttons/MainButtons/WhatTheHack</iconPath>
+				<label>Mechanoids</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>VFEMT_Mechanoids</defName>
+				<iconPath>UI/Buttons/MainButtons/Mechanoids</iconPath>
+				<label>Drones</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Wildlife</defName>
+				<iconPath>UI/Buttons/MainButtons/IconWildlife</iconPath>
+				<label>Wildlife</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Research</defName>
+				<iconPath>UI/Buttons/MainButtons/IconResearch</iconPath>
+				<label>Research</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Guests</defName>
+				<iconPath>UI/Buttons/MainButtons/Hospitality</iconPath>
+				<label>Guests</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Bodlosh_WeaponStats</defName>
+				<iconPath>UI/Buttons/MainButtons/WeaponStats</iconPath>
+				<label>Weapons</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Quests</defName>
+				<iconPath>UI/Buttons/MainButtons/IconQuests</iconPath>
+				<label>Quests</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>World</defName>
+				<iconPath>UI/Buttons/MainButtons/IconWorld</iconPath>
+				<label>World</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>VUIE_Chat</defName>
+				<iconPath>UI/MainButtons/IconChat</iconPath>
+				<label>Chat</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>VUIE_Overlays</defName>
+				<iconPath>UI/MainButtons/IconOverlays</iconPath>
+				<label>Overlays</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>DubsOptimizer</defName>
+				<iconPath>UI/Buttons/MainButtons/DubsOptimizer</iconPath>
+				<label>Dubs Performance Analyzer</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>RocketWindow</defName>
+				<iconPath>UI/Buttons/MainButtons/RocketMan</iconPath>
+				<label>RocketMan</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>History</defName>
+				<iconPath>UI/Buttons/MainButtons/IconHistory</iconPath>
+				<label>History</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Factions</defName>
+				<iconPath>UI/Buttons/MainButtons/IconFactions</iconPath>
+				<label>Factions</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Ideos</defName>
+				<iconPath>UI/Buttons/MainButtons/Ideoligions</iconPath>
+				<label>Ideoligions</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintBillMenu</defName>
+				<iconPath>Mint/UI/Global_bills</iconPath>
+				<label>Mint bill menu</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintGearMenu</defName>
+				<iconPath>Mint/UI/Parka</iconPath>
+				<label>Mint gear menu</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Inventory</defName>
+				<iconPath>UI/Buttons/MainButtons/InventoryTab</iconPath>
+				<label>Inventory</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>PaintShop</defName>
+				<iconPath>JOP/PaintBrush</iconPath>
+				<label>Dubs Paint Shop</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Revolus_TextileStats_Window</defName>
+				<iconPath>UI/Buttons/MainButtons/Revolus_TextileStats_Window</iconPath>
+				<label>Database</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>RPMainButton</defName>
+				<iconPath>UI/Buttons/MainButtons/Rimpedia</iconPath>
+				<label>Rimpedia</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>WC_OpenWorksControllerConfigMenu</defName>
+				<iconPath>UI/Buttons/MainButtons/WorksController</iconPath>
+				<label>Works Controller</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Menu</defName>
+				<iconPath>UI/Buttons/MainButtons/IconMenu</iconPath>
+				<label>Menu</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>DebugLog</defName>
+				<iconPath>LogButton/Log</iconPath>
+				<label>Log</label>
+				<minimized>True</minimized>
+			</li>
+		</bottom>
+		<lastVersion>1.1.8086.38114</lastVersion>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="WeaponRacks.GunRackModSettings">
+		<weaponDisplayAdjustmentList>
+			<li>
+				<thingDef>MeleeWeapon_Gladius</thingDef>
+				<rotationVertical>-180</rotationVertical>
+			</li>
+			<li>
+				<thingDef>Bow_Great</thingDef>
+				<rotationHorizontal>-90</rotationHorizontal>
+				<rotationVertical>90</rotationVertical>
+			</li>
+			<li>
+				<thingDef>MeleeWeapon_Knife</thingDef>
+				<rotationVertical>-180</rotationVertical>
+				<sizeFactor>0.75</sizeFactor>
+			</li>
+			<li>
+				<thingDef>MeleeWeapon_LongSword</thingDef>
+				<rotationVertical>-180</rotationVertical>
+			</li>
+			<li>
+				<thingDef>Gun_Autopistol</thingDef>
+				<sizeFactor>0.75</sizeFactor>
+			</li>
+			<li>
+				<thingDef>Bow_Recurve</thingDef>
+				<rotationHorizontal>-90</rotationHorizontal>
+				<rotationVertical>90</rotationVertical>
+			</li>
+			<li>
+				<thingDef>Gun_Revolver</thingDef>
+				<sizeFactor>0.75</sizeFactor>
+			</li>
+			<li>
+				<thingDef>Bow_Short</thingDef>
+				<rotationHorizontal>-90</rotationHorizontal>
+				<rotationVertical>90</rotationVertical>
+			</li>
+			<li>
+				<thingDef>Gun_MachinePistol</thingDef>
+				<sizeFactor>0.75</sizeFactor>
+			</li>
+		</weaponDisplayAdjustmentList>
+	</ModSettings>
+</SettingsBlock>

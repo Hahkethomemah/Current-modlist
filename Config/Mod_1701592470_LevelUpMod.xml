@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="LevelUp.Settings">
+		<profile>
+			<levelUpActionMaker>
+				<actions>
+					<li Class="LevelUp.AnimationAction">
+						<def>LevelUpActionDef_Animation</def>
+						<active>True</active>
+						<animation Class="LevelUp.FleckAnimation">
+							<fleckDef>LevelUpAnimation_Radiance</fleckDef>
+						</animation>
+					</li>
+					<li Class="LevelUp.OverheadMessageAction">
+						<def>LevelUpActionDef_OverheadMessage</def>
+						<text>{SKILL}
+level {LEVEL}</text>
+					</li>
+					<li Class="LevelUp.SoundAction">
+						<def>LevelUpActionDef_Sound</def>
+						<active>True</active>
+						<soundDef>LevelUpSound_Ding</soundDef>
+					</li>
+					<li Class="LevelUp.MessageAction">
+						<def>LevelUpActionDef_Message</def>
+						<active>True</active>
+						<text>&lt;color=orange&gt;{PAWN}&lt;/color&gt; reached level {LEVEL} in {SKILL}!</text>
+					</li>
+				</actions>
+			</levelUpActionMaker>
+			<levelDownActionMaker>
+				<actions>
+					<li Class="LevelUp.AnimationAction">
+						<def>LevelUpActionDef_Animation</def>
+						<animation Class="LevelUp.FleckAnimation">
+							<fleckDef>LevelUpAnimation_Drain</fleckDef>
+						</animation>
+					</li>
+					<li Class="LevelUp.OverheadMessageAction">
+						<def>LevelUpActionDef_OverheadMessage</def>
+						<text>{SKILL}
+level {LEVEL}</text>
+					</li>
+					<li Class="LevelUp.SoundAction">
+						<def>LevelUpActionDef_Sound</def>
+						<soundDef>LevelUpSound_Negative</soundDef>
+					</li>
+					<li Class="LevelUp.MessageAction">
+						<def>LevelUpActionDef_Message</def>
+						<text>&lt;color=orange&gt;{PAWN}&lt;/color&gt; reached level {LEVEL} in {SKILL}.</text>
+					</li>
+				</actions>
+			</levelDownActionMaker>
+			<generalSettingsContent>
+				<cooldownSeconds>20</cooldownSeconds>
+			</generalSettingsContent>
+		</profile>
+	</ModSettings>
+</SettingsBlock>

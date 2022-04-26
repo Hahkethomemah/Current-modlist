@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Rimdeed.RimdeedSettings">
+		<woodlogCost>1250</woodlogCost>
+		<silverCost>5000</silverCost>
+		<goldCost>8000</goldCost>
+		<forbiddenRaces />
+	</ModSettings>
+</SettingsBlock>

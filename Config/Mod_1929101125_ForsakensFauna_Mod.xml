@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ForsakensFF.ForsakensFauna_Settings">
+		<pawnSpawnStates>
+			<keys>
+				<li>FO_Thunderox</li>
+				<li>FO_DuskProwler</li>
+				<li>FO_Murkling</li>
+				<li>FO_ShadowCharger</li>
+				<li>FO_DarkVandal</li>
+			</keys>
+			<values>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+			</values>
+		</pawnSpawnStates>
+		<FFSpawnMultiplier>1</FFSpawnMultiplier>
+	</ModSettings>
+</SettingsBlock>

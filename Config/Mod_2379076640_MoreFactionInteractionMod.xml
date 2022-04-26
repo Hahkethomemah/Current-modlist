@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MoreFactionInteraction.MoreFactionInteraction_Settings">
+		<traderWealthOffsetFromTimesTraded>0.7</traderWealthOffsetFromTimesTraded>
+	</ModSettings>
+</SettingsBlock>

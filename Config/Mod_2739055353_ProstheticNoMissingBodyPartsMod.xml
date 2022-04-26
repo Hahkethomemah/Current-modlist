@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ProstheticNoMissingBodyParts.ProstheticNoMissingBodyPartsSettings">
+		<armsWhitelist>
+			<li>BionicArm</li>
+			<li>SimpleProstheticArm</li>
+			<li>VME_FleshcraftedArmHediff</li>
+			<li>Arasaka_Arm_AC</li>
+			<li>VFEI_InsectoidArm</li>
+			<li>JGH_MechaBionicArm</li>
+			<li>FSFBionicDrillArm</li>
+			<li>FSFBionicFieldArm</li>
+			<li>FSFBionicPowerArm</li>
+			<li>ArchotechArm</li>
+			<li>EVOR_Hediff_Appendage_ExtradextrousArm</li>
+			<li>EVOR_Hediff_Appendage_TriPlacedLimb</li>
+		</armsWhitelist>
+		<legsWhitelist>
+			<li>BionicLeg</li>
+			<li>SimpleProstheticLeg</li>
+			<li>AA_MutantLeg</li>
+			<li>VME_FleshcraftedLegHediff</li>
+			<li>Arasaka_Leg_AC</li>
+			<li>ArchotechLeg</li>
+			<li>Trunken_hediff_Musclewire</li>
+			<li>EVOR_Hediff_Appendage_TriPlacedLimb</li>
+			<li>EVOR_Hediff_Appendage_ReinforcedLeg</li>
+		</legsWhitelist>
+	</ModSettings>
+</SettingsBlock>

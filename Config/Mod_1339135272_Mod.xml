@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TD_Enhancement_Pack.Settings">
+		<showStopGizmo>False</showStopGizmo>
+		<showStopGizmoDrafted>False</showStopGizmoDrafted>
+		<zoneRefill>False</zoneRefill>
+	</ModSettings>
+</SettingsBlock>

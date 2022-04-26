@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.KFM.Settings">
+		<ignoredTargets>
+			<li>Boomrat</li>
+			<li>Boomalope</li>
+			<li>HPLovecraft_MistStalker</li>
+			<li>HPLovecraft_MistStalkerTwo</li>
+		</ignoredTargets>
+		<ignoredRangedAttack>
+			<li>Green_Dragon_Race</li>
+			<li>Black_Dragon_Race</li>
+			<li>Brown_Dragon_Race</li>
+			<li>Gold_Dragon_Race</li>
+			<li>Silver_Dragon_Race</li>
+			<li>Red_Dragon_Race</li>
+			<li>Blue_Dragon_Race</li>
+			<li>White_Dragon_Race</li>
+			<li>Purple_Dragon_Race</li>
+			<li>Cryo_Dragon_Race</li>
+			<li>Flamingo_Dragon_Race</li>
+			<li>Rock_Dragon_Race</li>
+			<li>Yellow_Dragon_Race</li>
+			<li>True_Dragon_Race</li>
+			<li>Royal_Dragon_Race</li>
+		</ignoredRangedAttack>
+		<defaultBuildingToAttack>
+			<li>CrashedPsychicEmanatorShipPart</li>
+			<li>CrashedPoisonShipPart</li>
+			<li>ROM_PitChthonian</li>
+		</defaultBuildingToAttack>
+		<warriorAttackBonus>0.2</warriorAttackBonus>
+	</ModSettings>
+</SettingsBlock>
