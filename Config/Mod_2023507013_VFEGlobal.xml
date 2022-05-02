@@ -15,16 +15,8 @@
 		<enableLeaveSpawners>True</enableLeaveSpawners>
 		<enableAutumnLeaveSpawners>True</enableAutumnLeaveSpawners>
 		<weatherDamagesOptions>
-			<keys>
-				<li>RG_Hail</li>
-				<li>RG-W_ToxicRain</li>
-				<li>RG-W_ToxicRainyThunderstorm</li>
-			</keys>
-			<values>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-			</values>
+			<keys />
+			<values />
 		</weatherDamagesOptions>
 	</ModSettings>
 </SettingsBlock>
