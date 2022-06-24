@@ -67,7 +67,7 @@
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DrugBurning</key>
@@ -103,7 +103,7 @@
     </li>
     <li>
       <key>Forbidding</key>
-      <value>0</value>
+      <value>0.8</value>
     </li>
     <li>
       <key>GrowingFood</key>
@@ -111,7 +111,7 @@
     </li>
     <li>
       <key>EquippingWeapons</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Alerts</key>
@@ -139,11 +139,11 @@
     </li>
     <li>
       <key>AnimalTaming</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTraining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>InfoCard</key>
@@ -151,7 +151,7 @@
     </li>
     <li>
       <key>StorageTab</key>
-      <value>0</value>
+      <value>0.2319998</value>
     </li>
     <li>
       <key>HomeArea</key>

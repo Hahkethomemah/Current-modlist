@@ -84,11 +84,6 @@
 				<label>Work</label>
 			</li>
 			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
-				<defName>Fluffy_Manager</defName>
-				<iconPath>UI/Buttons/MainButtons/Manager</iconPath>
-				<label>Manager</label>
-			</li>
-			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
 				<defName>Schedule</defName>
 				<iconPath>UI/Buttons/MainButtons/IconSchedule</iconPath>
 				<label>Schedule</label>

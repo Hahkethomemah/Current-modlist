@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.3.3326 rev562</version>
+    <version>1.3.3389 rev40</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -15,6 +15,7 @@
         <li>hahkethomemah.simplepersonalities.module2</li>
         <li>absolute.legends.hair</li>
         <li>brrainz.achtung</li>
+        <li>mlie.allmemoriesfade</li>
         <li>roolo.almostthere</li>
         <li>spoonshortage.adogsaidanimalprosthetics</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
@@ -81,7 +82,6 @@
         <li>better.beggars</li>
         <li>mosi.betterflagstone</li>
         <li>fissure.bettergroundtextures</li>
-        <li>fluffy.colonymanager</li>
         <li>unlimitedhugs.allowtool</li>
         <li>dubwise.dubsmintmenus</li>
         <li>sarg.smartspeed</li>
@@ -89,10 +89,11 @@
         <li>gondragon.uinotincluded</li>
         <li>mlie.bettermessageplacement</li>
         <li>owlchemist.bettervanillamasking</li>
-        <li>antaioz.bettervents</li>
         <li>beyondrimworld.weapons</li>
         <li>mlie.billysimprovedcaravanformation</li>
         <li>solaris.bioreactor</li>
+        <li>m00nl1ght.geologicallandforms</li>
+        <li>m00nl1ght.geologicallandforms.biometransitions</li>
         <li>fluffysminion.itw.caveworldfloraunleashed</li>
         <li>frozensnowfox.vanillabionicsexpansion</li>
         <li>automatic.bionicicons</li>
@@ -104,7 +105,6 @@
         <li>uuugggg.buildfrominventory</li>
         <li>neceros.bulksmelting</li>
         <li>mrhacky.butcherycountsmeattypes</li>
-        <li>targhetti.showdrafteesweapon</li>
         <li>crashm.colorcodedmoodbar.11</li>
         <li>8z.callforintel</li>
         <li>brrainz.cameraplus</li>
@@ -185,6 +185,13 @@
         <li>etrt.rimworldtweaks</li>
         <li>statistno1.evolvedorgansredux</li>
         <li>xedos.arsenalexotic</li>
+        <li>rick.fcpfnvsmg</li>
+        <li>rick.fcpprewarfoods</li>
+        <li>aoba.tent</li>
+        <li>rick.fcptents</li>
+        <li>rick.fcpvertibirds</li>
+        <li>jangodsoul.frog.mgs4</li>
+        <li>sineswiper.factionblender</li>
         <li>rick.fcpbertsarmory</li>
         <li>rick.fcpcre</li>
         <li>rick.fcpcca</li>
@@ -197,21 +204,16 @@
         <li>rick.fcpfnvpsitols</li>
         <li>rick.fcpfnvrevolvers</li>
         <li>rick.fcpfnvshotguns</li>
-        <li>rick.fcpfnvsmg</li>
         <li>fcp.fp</li>
         <li>rick.fcpgk</li>
         <li>rick.fcpmksh</li>
+        <li>rick.fcpmksr</li>
         <li>rick.fcpmmet</li>
         <li>rick.fcpfnvplasmaweapons</li>
-        <li>rick.fcpprewarfoods</li>
         <li>rick.fcpraid</li>
-        <li>aoba.tent</li>
-        <li>rick.fcptents</li>
         <li>rick.fcpusa</li>
         <li>rick.fcpunstoppables</li>
-        <li>rick.fcpvertibirds</li>
-        <li>jangodsoul.frog.mgs4</li>
-        <li>sineswiper.factionblender</li>
+        <li>hahkethomemah.fgp</li>
         <li>fsr.stimpaks</li>
         <li>mlie.fillbackstories</li>
         <li>fluffy.followme</li>
@@ -228,7 +230,6 @@
         <li>forsakens.fauna</li>
         <li>miyamiya.functionalroom.latest</li>
         <li>zylle.gemstones</li>
-        <li>m00nl1ght.geologicallandforms</li>
         <li>jangodsoul.ghostr.wa</li>
         <li>jpt.burnitforfuel</li>
         <li>roolo.whatthehack</li>
@@ -244,6 +245,7 @@
         <li>captainmuscles.grabyourtool</li>
         <li>grandyy.gfa</li>
         <li>telefonmast.graphicssettings</li>
+        <li>arkymn.agingvisuals</li>
         <li>ancientgammoner.groundtargeter</li>
         <li>arandomkiwi.guardsforme</li>
         <li>odeum.biomeskit</li>
@@ -257,8 +259,8 @@
         <li>smashphil.heatedfloors</li>
         <li>tory.icons.historical</li>
         <li>hahke.honestcorpse</li>
-        <li>arandomkiwi.huntforme</li>
         <li>vanya.tools.incidentpersonstat</li>
+        <li>automatic.incidenttweaker</li>
         <li>tyrannical_elmo.industrialmelee</li>
         <li>murmur.isid</li>
         <li>haecriver.injuredcarry</li>
@@ -268,7 +270,6 @@
         <li>mlie.jinrohkerberospanzercoparmor</li>
         <li>salmontoastie.jointbattles</li>
         <li>itzal.kon.hair</li>
-        <li>arandomkiwi.killforme</li>
         <li>jangodsoul.bot.soldier</li>
         <li>kit.braziliancrops</li>
         <li>kit.xrweapons</li>
@@ -279,7 +280,6 @@
         <li>akairo.letshaveacat</li>
         <li>krafs.levelup</li>
         <li>mlie.livewiththepain</li>
-        <li>krkr.locks2</li>
         <li>bdew.longdistance</li>
         <li>ratys.madskills</li>
         <li>riprusse.manhair</li>
@@ -298,7 +298,7 @@
         <li>uuugggg.miningpriority</li>
         <li>javierloustaunau.miscmelanin</li>
         <li>haplo.miscellaneous.training</li>
-        <li>fluffy.modmanager</li>
+        <li>taranchuk.modcontenttable</li>
         <li>name.krypt.rimworld.moddiff</li>
         <li>sc.modernbed</li>
         <li>mlie.moloytraits</li>
@@ -318,6 +318,7 @@
         <li>fluffy.stuffedfloors</li>
         <li>zylle.carpetleatherfloor</li>
         <li>aardvark.morevisiblepause</li>
+        <li>bs.oversizedapparel</li>
         <li>morgante.morgantewolfcloak</li>
         <li>rax.morphgun</li>
         <li>morphsassorted.nocrushedbodies</li>
@@ -335,6 +336,7 @@
         <li>jbloodthorn.nolazydoctors</li>
         <li>halituisamaricanous.nmswp</li>
         <li>zirc.nonaturalpsyfocusdecrease</li>
+        <li>hahkethomemah.poopin</li>
         <li>mlie.noversionwarning</li>
         <li>sarg.alphabiomes</li>
         <li>tidal.grainsandbrewing</li>
@@ -392,7 +394,6 @@
         <li>mlie.roadsoftherim</li>
         <li>mlie.regrowthexpandedworldgeneration</li>
         <li>woolstrand.realruins</li>
-        <li>hobtook.tradeui</li>
         <li>vanillaexpanded.ui</li>
         <li>jaxe.rimhud</li>
         <li>automatic.recipeicons</li>
@@ -435,7 +436,6 @@
         <li>mobius.royaltytweaks</li>
         <li>roolo.runandgun</li>
         <li>jgh.srtsretexture</li>
-        <li>jacob.savemaps</li>
         <li>owlchemist.scatteredstones</li>
         <li>prestigephoenix.maltum</li>
         <li>vanillaexpanded.varme</li>
@@ -446,7 +446,6 @@
         <li>uuugggg.sharetheload</li>
         <li>shavius.vepatches</li>
         <li>mlie.shelfrenamer</li>
-        <li>erdelf.showmoddesignators</li>
         <li>mlie.simplestockpilepresets</li>
         <li>owlchemist.ceilingutilities</li>
         <li>owlchemist.fridgeutilities</li>
@@ -470,8 +469,6 @@
         <li>akri.starcraftersarmory</li>
         <li>scherub.stonecuttingextended</li>
         <li>sakama.storytellerhair</li>
-        <li>vanillaexpanded.vchemfuele</li>
-        <li>unon.vchemfuele.scp</li>
         <li>survivalistmeme.mp3</li>
         <li>colinfang.tagit</li>
         <li>legodude17.htsb</li>
@@ -501,6 +498,13 @@
         <li>nowano.vfem.prisoncontroldroid</li>
         <li>isorex.mechanoidsaddon</li>
         <li>seos.vfe.mechanoids.tab</li>
+        <li>spacemoth.vfeaeternalvaults</li>
+        <li>roolo.giddyupbattlemounts</li>
+        <li>roolo.giddyupcaravan</li>
+        <li>roolo.giddyuprideandroll</li>
+        <li>spino.megafauna</li>
+        <li>vanillaexpanded.vchemfuele</li>
+        <li>vanillaexpanded.vgeneticse</li>
         <li>xrushha.animaanimals</li>
         <li>erin.palamutes</li>
         <li>tidal.morevanilla.textures</li>
@@ -514,11 +518,6 @@
         <li>vanillaexpanded.vfemedical</li>
         <li>vanillaexpanded.vfepropsanddecor</li>
         <li>vanillaexpanded.vfespacer</li>
-        <li>roolo.giddyupbattlemounts</li>
-        <li>roolo.giddyupcaravan</li>
-        <li>roolo.giddyuprideandroll</li>
-        <li>spino.megafauna</li>
-        <li>vanillaexpanded.vgeneticse</li>
         <li>vanillaexpanded.vhe</li>
         <li>vanillaexpanded.vieat</li>
         <li>vanillaexpanded.ideo.iconsandsymbols</li>
@@ -559,6 +558,7 @@
         <li>carolusclen.dlc.wmbp.rp</li>
         <li>martinbaste.ideo.xenoprecept</li>
         <li>orion.xevarimhair</li>
+        <li>smashphil.xmlpatchhelper</li>
         <li>nmajask.zealtraits</li>
         <li>nightkosh.zerocostimplants</li>
         <li>zhrocks11.letstrade</li>
@@ -610,6 +610,7 @@
         <li>hol.words</li>
         <li>mlie.rftribalpawnnames</li>
         <li>cp.rimdeed</li>
+        <li>khitrir.gunlinksaffectmortars</li>
         <li>bjis.lovelyhairstyle</li>
         <li>syrchalis.doormats</li>
         <li>syrchalis.stonerebalance</li>
